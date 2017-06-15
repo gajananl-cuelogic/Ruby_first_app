@@ -24,8 +24,10 @@ gem 'uglifier', '1.2.3'
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', :platform => :ruby
 
+
 end
 
+gem 'ruby','1.9.3'
 #Modified by gajanan
 # gem 'jquery-rails'
 #gem 'jquery-rails', '2.0.0'
