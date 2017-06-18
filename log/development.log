@@ -6,3 +6,31 @@ Served asset /rails.png - 200 OK (27ms)
 
 Started GET "/assets/rails.png" for 127.0.0.1 at 2017-06-15 16:37:20 +0530
 Served asset /rails.png - 304 Not Modified (68ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2017-06-16 11:12:53 +0530
+Served asset /rails.png - 304 Not Modified (17ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2017-06-18 11:06:37 +0530
+Served asset /rails.png - 304 Not Modified (41ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2017-06-18 11:08:22 +0530
+Served asset /rails.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2017-06-18 11:08:29 +0530
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2017-06-18 11:08:53 +0530
+Served asset /rails.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2017-06-18 11:11:32 +0530
+Served asset /rails.png - 304 Not Modified (5ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2017-06-18 11:13:18 +0530
+Served asset /rails.png - 304 Not Modified (5ms)
